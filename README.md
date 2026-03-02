@@ -490,6 +490,38 @@ For organizations needing expert guidance on incident response planning and cybe
 
 ---
 
+
+---
+
+## ⚠️ An Untested Plan Is Not a Plan
+
+Having a document on a shelf doesn't mean your organization can execute under pressure. **The majority of organizations that suffer a breach discover gaps in their IR plan during the incident itself** — when it's too late to fix them.
+
+- **No one knows their role** — The plan names a team, but those people have never practiced their responsibilities
+- **Communication plans fail** — Contact lists are outdated, notification templates don't exist, legal counsel isn't pre-engaged
+- **Containment decisions take too long** — Without pre-authorized actions, every step requires executive approval while the attacker moves laterally
+- **Evidence is destroyed** — Well-meaning IT staff reimage systems before forensic collection, eliminating the ability to determine scope
+
+> **Organizations with a tested IR plan contain breaches 54% faster and save an average of $1.49M per incident** (IBM Cost of a Data Breach Report).
+
+---
+
+## 📞 Ready to Test Your Plan?
+
+**This template gives you the document. We help you build the capability.**
+
+[Petronella Technology Group](https://petronellatech.com/cyber-security/) provides incident response planning, tabletop exercises, and 24/7 breach response services.
+
+| Service | What You Get |
+|---------|-------------|
+| **Free IR Readiness Assessment** | 30-minute review of your current incident response capability |
+| **Tabletop Exercise** | Facilitated scenario-based exercise with your team (ransomware, BEC, data breach) |
+| **IR Plan Development** | Custom plan aligned to NIST 800-61 and your regulatory requirements |
+| **24/7 Breach Response** | On-call forensics team for active incidents (retainer or on-demand) |
+
+**→ [Schedule a Free IR Assessment](https://petronellatech.com/contact-us/schedule-appointment/)** | Call [(919) 422-8500](tel:+19194228500)
+
+
 ## About
 
 This incident response plan template is maintained by **[Petronella Technology Group](https://petronellatech.com)**, a cybersecurity and IT compliance firm headquartered in Raleigh, North Carolina. Founded in 2002, Petronella Technology Group has over 23 years of experience helping organizations prepare for, detect, and respond to cybersecurity incidents.
